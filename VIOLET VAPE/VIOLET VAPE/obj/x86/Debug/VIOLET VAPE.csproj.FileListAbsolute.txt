@@ -1,0 +1,10 @@
+C:\Users\Rem'z Mell\Desktop\VIOLET VAPE\VIOLET VAPE\bin\Debug\VIOLET VAPE.exe
+C:\Users\Rem'z Mell\Desktop\VIOLET VAPE\VIOLET VAPE\bin\Debug\VIOLET VAPE.pdb
+C:\Users\Rem'z Mell\Desktop\VIOLET VAPE\VIOLET VAPE\obj\x86\Debug\VIOLET_VAPE.Properties.Resources.resources
+C:\Users\Rem'z Mell\Desktop\VIOLET VAPE\VIOLET VAPE\obj\x86\Debug\VIOLET VAPE.csproj.GenerateResource.Cache
+C:\Users\Rem'z Mell\Desktop\VIOLET VAPE\VIOLET VAPE\obj\x86\Debug\VIOLET VAPE.exe
+C:\Users\Rem'z Mell\Desktop\VIOLET VAPE\VIOLET VAPE\obj\x86\Debug\VIOLET VAPE.pdb
+C:\Users\Rem'z Mell\Desktop\VIOLET VAPE\VIOLET VAPE\obj\x86\Debug\VIOLET_VAPE.LoginFRM.resources
+C:\Users\Rem'z Mell\Desktop\VIOLET VAPE\VIOLET VAPE\obj\x86\Debug\VIOLET_VAPE.MainFRM.resources
+C:\Users\Rem'z Mell\Desktop\VIOLET VAPE\VIOLET VAPE\obj\x86\Debug\VIOLET VAPE.csprojResolveAssemblyReference.cache
+C:\Users\Rem'z Mell\Desktop\VIOLET VAPE\VIOLET VAPE\obj\x86\Debug\VIOLET_VAPE.FormACCOUNT.resources
